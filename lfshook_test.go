@@ -2,7 +2,7 @@ package lfshook
 
 import (
 	"bytes"
-	"github.com/sirupsen/logrus"
+	"github.com/lwydyby/logrus"
 	"io/ioutil"
 	"os"
 	"testing"
